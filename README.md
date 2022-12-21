@@ -24,7 +24,7 @@ Bug reports and feature requests can be filed with the rest for the Phoenix proj
 
 ## License
 
-Zero to GraphQL Using Ruby is released under the [MIT license](./LICENSE.md).
+Strawberry GraphQL Demo is released under the [MIT license](./LICENSE.md).
 
 ## Copyright
 
